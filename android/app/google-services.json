@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207324931041",
+    "project_id": "tasktisfying",
+    "storage_bucket": "tasktisfying.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207324931041:android:8d3f03d4281131576ea8a0",
+        "android_client_info": {
+          "package_name": "com.example.tasktisfying"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207324931041:android:5269ae27e24727106ea8a0",
+        "android_client_info": {
+          "package_name": "com.tasktisfying.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
